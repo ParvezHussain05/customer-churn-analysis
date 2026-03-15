@@ -21,4 +21,4 @@ Google Colab
 - Customers with longer tenure are less likely to leave.
 
 ## Author
-Data Analysis Portfolio Project
+Parvez Hussain
